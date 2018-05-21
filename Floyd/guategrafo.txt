@@ -1,3 +1,3 @@
-uno dos 30
-tres cuatro 40
-cinco seis 50
+Guatemala,Escuintla,22
+San Marcos,Jutiapa, 33
+San Lucas,La Antigua, 15

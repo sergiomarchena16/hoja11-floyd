@@ -3,15 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
+import javax.swing.JFileChooser;
 /**
  *
  * @author SergioMarchena
  */
 public class Principal {
     
-    public static void main  (String args []) {
+    public static void main  (String args []) throws IOException {
         Grafos grafo = new Grafos();
 		System.out.println("Bienvenido a la interfaz de viajes entre ciudades");
 		boolean bandera =true;
