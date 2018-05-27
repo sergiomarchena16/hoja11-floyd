@@ -1,0 +1,39 @@
+Guatemala, Santa Rosa, 82.8
+Santa Rosa, Peten, 577.3
+Guatemala, Izabal, 266
+Guatemala, Peten, 525.0
+Guatemala, Chiquimula, 171.3
+Guatemala, Jutiapa, 133.9
+Guatemala, Jalapa, 123
+Guatemala, Retalhuleu, 190.4
+Guatemala, Huehuetenango, 261.1
+Guatemala, Xela, 200.6
+Guatemala, Baja Verapaz, 161.7
+Guatemala, Alta Verapaz, 250.7
+Guatemala, Coban, 211.6
+Coban, Chiquimula, 212.3
+Coban, Alta Verapaz, 40.4
+Coban, Izabal, 265.0
+Alta Verapaz, Huehuetenango, 216.8
+Alta Verapaz, Quetzaltenango, 250.9
+Alta Verapaz, Jalapa, 244.1
+Alta Verapaz, Jutiapa, 307.7
+Alta Verapaz, Peten, 269.3
+Alta Verapaz, Santa Rosa, 100.2
+Santa Rosa, Coban, 291.7
+Santa Rosa, Jalapa, 118.6
+Santa Rosa, Jutiapa, 79.3
+Santa Rosa, Huehuetenango, 290.6
+Santa Rosa, Chiquimula, 153.5
+Chiquimula, Quetzaltenango, 370.4
+Quetzaltenango, Huehuetenango, 91.6
+Quetzaltenango, Peten, 461.9
+Quetzaltenango, Guatemala, 200.2
+Coban, Guatemala, 82.3
+Coban, Guatemala, 82.3
+Alta Verapaz, Guatemala, 99.2
+Huehuetenango, Xela, 80
+Xela, Coban, 200
+Coban, Guatemala, 150
+Xela, Solola, 20.0
+Jalapa, Solola, 400.51
